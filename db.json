@@ -13,4 +13,18 @@
   "maxCPWeather": 1108,
   "shiny": false
  }
+ {
+  "id": 5,
+  "name": "Charmeleon",
+  "name_fr": "Reptincel",
+  "raidLevel": 1,
+  "bossCP": 5085,
+  "minCP": 793,
+  "maxCP": 847,
+  "captureRate": 10.0,
+  "weather": "Sunny",
+  "minCPWeather": 991,
+  "maxCPWeather": 1060,
+  "shiny": false
+ }
 ]
