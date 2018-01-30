@@ -1,30 +1,19 @@
-[
-  {
-  "id": 2,
-  "name": "Ivysaur",
-  "name_fr": "Herbizzare",
-  "raidLevel": 1,
-  "bossCP": 5238,
-  "minCP": 831,
-  "maxCP": 886,
-  "captureRate": 10.0,
-  "weather": "Sunny+Cloudy",
-  "minCPWeather": 1039,
-  "maxCPWeather": 1108,
-  "shiny": false
- },
- {
-  "id": 5,
-  "name": "Charmeleon",
-  "name_fr": "Reptincel",
-  "raidLevel": 1,
-  "bossCP": 5085,
-  "minCP": 793,
-  "maxCP": 847,
-  "captureRate": 10.0,
-  "weather": "Sunny",
-  "minCPWeather": 991,
-  "maxCPWeather": 1060,
-  "shiny": false
- }
-]
+{
+  "weather": [
+    {
+      "id": 1,
+      "city": "Monaco",
+      "currentWeather": "Sun"
+    },
+    {
+      "id": 2,
+      "city": "Nice",
+      "currentWeather": "Cloudy"
+    },
+    {
+      "id": 3,
+      "city": "Paris",
+      "currentWeather": "Rain"
+    }
+  ]
+}
